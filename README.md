@@ -21,7 +21,7 @@ const aboutMe = {
 	},
 	socials: {
 		instagram: "https://www.instagram.com/mxbktr/",
-		linkedIn: "https://www.instagram.com/mxbktr/",
+		linkedIn: "https://www.linkedin.com/in/max-bukator/",
 		twitter: "https://x.com/ulovenoir",
 	},
 	languages: ["English", "Ukrainian", "Russian"],

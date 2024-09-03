@@ -1,16 +1,30 @@
-### Hi there 👋
-
-<!--
-**mBukator/mBukator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+	fullName: "Maksym Bukator",
+	age: 20,
+	gender: "male",
+	pronouns: "he/him",
+	education: {
+		university: "Petro Mohyla BSNU",
+		faculty: "Faculty of Computer Science"
+	},
+	status: "Open To Work",
+	code: ["JavaScript", "TypeScript"],
+	technologies: {
+		frontEnd: ["React", "Next"],
+		backEnd: ["Express", "NestJS", "MongoDB"],
+		style: ["Sass", "TailwindCSS", "CSS Modules"]
+	},
+	currentlyLearning: {
+		code: ["Python"],
+		languages: ["Czech"]
+	},
+	socials: {
+		instagram: "https://www.instagram.com/mxbktr/",
+		linkedIn: "https://www.instagram.com/mxbktr/",
+		twitter: "https://x.com/ulovenoir",
+	},
+	languages: ["English", "Ukrainian", "Russian"],
+	hobbies: ["Drawing", "Playing computer games", "Basketball"]
+}
+```

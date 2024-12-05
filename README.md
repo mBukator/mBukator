@@ -1,7 +1,7 @@
 ```javascript
 const aboutMe = {
 	fullName: "Maksym Bukator",
-	age: 20,
+	age: 21,
 	gender: "male",
 	pronouns: "he/him",
 	education: {
@@ -14,10 +14,6 @@ const aboutMe = {
 		frontEnd: ["React", "Next"],
 		backEnd: ["Express", "NestJS", "MongoDB"],
 		style: ["Sass", "TailwindCSS", "CSS Modules"]
-	},
-	currentlyLearning: {
-		code: ["Python"],
-		languages: ["Czech"]
 	},
 	socials: {
 		instagram: "https://www.instagram.com/mxbktr/",

@@ -19,7 +19,7 @@ const aboutMe = {
 		code: ["Python"],
 		languages: ["Czech"]
 	},
-	other: ["Redux"]
+	other: ["Redux"],
 	socials: {
 		instagram: "https://www.instagram.com/mxbktr/",
 		linkedIn: "https://www.linkedin.com/in/max-bukator/",

@@ -15,6 +15,10 @@ const aboutMe = {
 		backEnd: ["Express", "NestJS", "MongoDB"],
 		style: ["Sass", "TailwindCSS", "CSS Modules"]
 	},
+        currentlyLearning: {
+		code: ["Python"],
+		languages: ["Czech"]
+	},
 	socials: {
 		instagram: "https://www.instagram.com/mxbktr/",
 		linkedIn: "https://www.linkedin.com/in/max-bukator/",

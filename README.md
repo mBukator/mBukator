@@ -13,13 +13,13 @@ const aboutMe = {
 	technologies: {
 		frontEnd: ["React", "Next"],
 		backEnd: ["Express", "NestJS", "MongoDB"],
-		style: ["Sass", "TailwindCSS", "CSS Modules"]
+		style: ["Sass", "TailwindCSS", "CSS Modules"],
+		other: ["Redux"]
 	},
         currentlyLearning: {
 		code: ["Python"],
 		languages: ["Czech"]
 	},
-	other: ["Redux"],
 	socials: {
 		instagram: "https://www.instagram.com/mxbktr/",
 		linkedIn: "https://www.linkedin.com/in/max-bukator/",

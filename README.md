@@ -9,23 +9,20 @@ const aboutMe = {
 		faculty: "Faculty of Computer Science"
 	},
 	status: "Open To Work",
-	code: ["JavaScript", "TypeScript"],
-	technologies: {
-		frontEnd: ["React", "Next"],
-		backEnd: ["Express", "NestJS", "MongoDB"],
-		style: ["Sass", "TailwindCSS", "CSS Modules"],
-		other: ["Redux"]
-	},
-        currentlyLearning: {
-		code: ["Python"],
-		languages: ["Czech"]
+	techStack: {
+		languages: ["JavaScript", "TypeScript"],
+  		frontEnd: ["React", "Next.js"],
+  		backEnd: ["Express", "NestJS"],
+  		databases: ["MongoDB"],
+  		styling: ["Sass", "TailwindCSS", "CSS Modules"],
+  		stateManagement: ["Redux"],
+  		tools: ["Git", "Vite", "Webpack"]
 	},
 	socials: {
 		instagram: "https://www.instagram.com/mxbktr/",
-		linkedIn: "https://www.linkedin.com/in/max-bukator/",
-		twitter: "https://x.com/ulovenoir",
+	    	linkedIn: "https://www.linkedin.com/in/max-bukator/",
+	    	twitter: "https://x.com/ulovenoir",
 	},
-	languages: ["English", "Ukrainian", "Russian"],
-	hobbies: ["Drawing", "Playing computer games", "Basketball"]
+  	languages: ["English (Fluent)", "Ukrainian (Native)", "Russian (Fluent)"],
 }
 ```

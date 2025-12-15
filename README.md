@@ -1,7 +1,7 @@
 ```javascript
 const aboutMe = {
 	fullName: "Maksym Bukator",
-	age: 21,
+	age: 22,
 	gender: "male",
 	pronouns: "he/him",
 	education: {

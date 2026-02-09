@@ -18,7 +18,7 @@ const max = {
     status: "🟢 Open To Work",
     education: "CS @ Petro Mohyla BSNU",
     languages: ["English (Fluent)", "Ukrainian (Native)", "Czech (A1)", "Russian (Fluent)"],
-    currentlyBuilding: "merlin-commit → CLI for conventional commits",
+    currentlyBuilding: "merlin-commit → a smarter CLI for conventional commits",
     philosophy: "Ship fast. Ship often. Build in public.",
 } as const;
 ```
@@ -135,7 +135,6 @@ const max = {
 </tr>
 </table>
 
-
 ---
 
 ## 🚀 What I'm Building
@@ -172,7 +171,7 @@ const max = {
 
 Tired of slow, bloated commit tools? Merlin analyzes your staged changes and suggests meaningful commit messages using pattern-matching and heuristic analysis. Zero API calls. Zero latency. Pure speed.
 
-`npm i -g merlin-commit` *(coming soon)*
+`npm i -g @spotly/merlin-commit` *(coming soon)*
 
 </td>
 <td valign="top">
@@ -206,7 +205,6 @@ Building a modern component distribution system at Spotly Tech. Instead of insta
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mBukator&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
 
 <br/><br/>
 

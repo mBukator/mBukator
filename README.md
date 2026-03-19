@@ -170,11 +170,58 @@ const max = {
 
 > **Privacy-first CLI + dashboard budget tracker. Your money. Your machine. Your business.**
 
+</td>
+<td valign="top">
+
+> **A smarter, faster CLI for conventional commits — no AI, just clever heuristics.**
+
+</td>
+<td valign="top">
+
+> **A modern UI component library with source code ownership — no opaque dependencies.**
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 A TypeScript CLI for logging expenses in seconds and a local Next.js dashboard for visual insights. Zero cloud. Zero accounts. Zero telemetry. All data stays in `~/.piggybank/`.
 
 Goal-first budgeting for developers — "I want to buy X by date Y, am I on track?"
 
+</td>
+<td valign="top">
+
+Tired of slow, bloated commit tools? Merlin analyzes your staged changes and suggests meaningful commit messages using pattern-matching and heuristic analysis. Zero API calls. Zero latency. Pure speed.
+
+Approaching v1.0.0.
+
+</td>
+<td valign="top">
+
+Instead of installing opaque packages, developers get full ownership over every component. Built with React and TypeScript. Supports plain CSS, CSS Modules, and Tailwind — your choice. Monorepo architecture powered by Turborepo and npm workspaces.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 `npm i -g @avilolabs/piggybank` *(coming soon)*
+
+</td>
+<td valign="top">
+
+`npm i -g @avilolabs/merlin-commit` *(coming soon)*
+
+</td>
+<td valign="top">
+
+`npx @avilolabs/bard` *(coming soon)*
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
@@ -184,14 +231,6 @@ Goal-first budgeting for developers — "I want to buy X by date Y, am I on trac
 </td>
 <td valign="top">
 
-> **A smarter, faster CLI for conventional commits — no AI, just clever heuristics.**
-
-Tired of slow, bloated commit tools? Merlin analyzes your staged changes and suggests meaningful commit messages using pattern-matching and heuristic analysis. Zero API calls. Zero latency. Pure speed.
-
-Approaching v1.0.0.
-
-`npm i -g @avilolabs/merlin-commit` *(coming soon)*
-
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![CLI](https://img.shields.io/badge/CLI_Tool-000?style=flat-square&logo=windowsterminal&logoColor=white)](#)
 [![No AI](https://img.shields.io/badge/🚫_No_AI-Pure_Heuristics-orange?style=flat-square)](#)
@@ -199,17 +238,12 @@ Approaching v1.0.0.
 </td>
 <td valign="top">
 
-> **A modern UI component library with source code ownership — no opaque dependencies.**
-
-Instead of installing opaque packages, developers get full ownership over every component. Built with React and TypeScript. Supports plain CSS, CSS Modules, and Tailwind — your choice. Monorepo architecture powered by npm workspaces.
-
-`npx @avilolabs/bard` *(coming soon)*
-
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
 [![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=cssmodules&logoColor=white)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](#)
+[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)](#)
 
 </td>
 </tr>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER — animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Hey%2C+I'm+Max+%F0%9F%91%8B;Front-End+Developer+%7C+Open+Source+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Hey%2C+I'm+Max+%F0%9F%91%8B;Front-End+Developer+%7C+Building+%40avilolabs" alt="Typing SVG" />
 
 <br/>
 
@@ -18,8 +18,14 @@ const max = {
     status: "🟢 Open To Work",
     education: "CS @ Petro Mohyla BSNU",
     languages: ["English (Fluent)", "Ukrainian (Native)", "Czech (A1)", "Russian (Fluent)"],
-    currentlyBuilding: "merlin-commit → a smarter CLI for conventional commits",
+    org: "Avilo Labs — @avilolabs on npm, avilo-labs on GitHub",
+    currentlyBuilding: [
+        "piggybank → privacy-first CLI + dashboard budget tracker",
+        "merlin-commit → a smarter CLI for conventional commits",
+        "Bard → modern UI component library with source code ownership",
+    ],
     philosophy: "Ship fast. Ship often. Build in public.",
+    mascot: "Towbot the Keeper 🏠",
 } as const;
 ```
 
@@ -137,62 +143,73 @@ const max = {
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 What I'm Building @ [Avilo Labs](https://github.com/avilo-labs)
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🐷 piggybank
+
+</td>
+<td width="33%" valign="top">
 
 ### 🧙‍♂️ merlin-commit
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🎨 Spotly UI
+### 🎵 Bard
 
 </td>
 </tr>
 <tr>
+<td valign="top">
+
+> **Privacy-first CLI + dashboard budget tracker. Your money. Your machine. Your business.**
+
+A TypeScript CLI for logging expenses in seconds and a local Next.js dashboard for visual insights. Zero cloud. Zero accounts. Zero telemetry. All data stays in `~/.piggybank/`.
+
+Goal-first budgeting for developers — "I want to buy X by date Y, am I on track?"
+
+`npm i -g @avilolabs/piggybank` *(coming soon)*
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)](#)
+[![CLI](https://img.shields.io/badge/CLI_Tool-000?style=flat-square&logo=windowsterminal&logoColor=white)](#)
+[![Privacy](https://img.shields.io/badge/🔒_Privacy_First-222?style=flat-square)](#)
+
+</td>
 <td valign="top">
 
 > **A smarter, faster CLI for conventional commits — no AI, just clever heuristics.**
 
-</td>
-<td valign="top">
-
-> **A shadcn-style component library — copy, paste, own.**
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
 Tired of slow, bloated commit tools? Merlin analyzes your staged changes and suggests meaningful commit messages using pattern-matching and heuristic analysis. Zero API calls. Zero latency. Pure speed.
 
-`npm i -g @spotly/merlin-commit` *(coming soon)*
+Approaching v1.0.0.
 
-</td>
-<td valign="top">
-
-Building a modern component distribution system at Spotly Tech. Instead of installing opaque dependencies, developers get full source code ownership over every component. Built with a monorepo architecture powered by Turborepo.
-
-</td>
-</tr>
-<tr>
-<td>
+`npm i -g @avilolabs/merlin-commit` *(coming soon)*
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![CLI](https://img.shields.io/badge/CLI_Tool-000?style=flat-square&logo=windowsterminal&logoColor=white)](#)
 [![No AI](https://img.shields.io/badge/🚫_No_AI-Pure_Heuristics-orange?style=flat-square)](#)
 
 </td>
-<td>
+<td valign="top">
+
+> **A modern UI component library with source code ownership — no opaque dependencies.**
+
+Instead of installing opaque packages, developers get full ownership over every component. Built with React and TypeScript. Supports plain CSS, CSS Modules, and Tailwind — your choice. Monorepo architecture powered by npm workspaces.
+
+`npx @avilolabs/bard` *(coming soon)*
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
-[![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)](#)
-[![Monorepo](https://img.shields.io/badge/Monorepo-333?style=flat-square)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
+[![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=flat-square&logo=cssmodules&logoColor=white)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](#)
 
 </td>
 </tr>
@@ -227,6 +244,7 @@ Building a modern component distribution system at Spotly Tech. Instead of insta
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-bukator/)
 [![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbukat0r)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxbktr/)
+[![npm](https://img.shields.io/badge/@avilolabs-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/org/avilolabs)
 
 <br/>
 

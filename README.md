@@ -25,7 +25,7 @@ const max = {
         "Bard → modern UI component library with source code ownership",
     ],
     philosophy: "Ship fast. Ship often. Build in public.",
-    mascot: "Towbot the Keeper 🏠",
+    mascot: "Towbot - the Keeper",
 } as const;
 ```
 

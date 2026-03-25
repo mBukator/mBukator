@@ -277,7 +277,6 @@ Instead of installing opaque packages, developers get full ownership over every 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-bukator/)
 [![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbukat0r)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxbktr/)
 [![npm](https://img.shields.io/badge/@avilolabs-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/org/avilolabs)
 
 <br/>

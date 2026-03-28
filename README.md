@@ -262,8 +262,6 @@ Instead of installing opaque packages, developers get full ownership over every 
 
 ---
 
-## 🐍 Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mBukator/mBukator/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mBukator/mBukator/output/github-snake.svg" />

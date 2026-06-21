@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER — animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Hey%2C+I'm+Max+%F0%9F%91%8B;Front-End+Developer+%7C+Building+%40avilolabs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=%3E+Hey%2C+I'm+Max+%F0%9F%91%8B;Front-End+Developer+%7C+Building+Open-Source+Dev+Tools" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,6 @@ const max = {
     status: "🟢 Open To Work",
     education: "CS @ Petro Mohyla BSNU",
     languages: ["English (Fluent)", "Ukrainian (Native)", "Czech (A1)", "Russian (Fluent)"],
-    org: "Avilo Labs — @avilolabs on npm, avilo-labs on GitHub",
     currentlyBuilding: [
         "piggybank → privacy-first CLI + dashboard budget tracker",
         "merlin-commit → a smarter CLI for conventional commits",
@@ -142,7 +141,7 @@ const max = {
 
 ---
 
-## 🚀 What I'm Building @ [Avilo Labs](https://github.com/avilo-labs)
+## 🚀 What I'm Building
 
 </div>
 
@@ -193,7 +192,7 @@ Goal-first budgeting for developers — "I want to buy X by date Y, am I on trac
 
 Tired of slow, bloated commit tools? Merlin analyzes your staged changes and suggests meaningful commit messages using pattern-matching and heuristic analysis. Zero API calls. Zero latency. Pure speed.
 
-Approaching v1.0.0.
+Now live on npm.
 
 </td>
 <td valign="top">
@@ -205,17 +204,19 @@ Instead of installing opaque packages, developers get full ownership over every 
 <tr>
 <td valign="top">
 
-`npm i -g @avilolabs/piggybank` *(coming soon)*
+`npm i -g piggybank` *(coming soon)*
 
 </td>
 <td valign="top">
 
-`npm i -g @avilolabs/merlin-commit` *(coming soon)*
+`npm i -g merlin-commit`
+
+[![npm version](https://img.shields.io/npm/v/merlin-commit?style=flat-square&logo=npm&logoColor=white&label=npm&color=CB3837)](https://www.npmjs.com/package/merlin-commit)
 
 </td>
 <td valign="top">
 
-`npx @avilolabs/bard` *(coming soon)*
+`npx bard-ui` *(coming soon)*
 
 </td>
 </tr>
@@ -274,7 +275,7 @@ Instead of installing opaque packages, developers get full ownership over every 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-bukator/)
 [![Twitter](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbukat0r)
-[![npm](https://img.shields.io/badge/@avilolabs-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/org/avilolabs)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~mxbktr)
 
 <br/>
 

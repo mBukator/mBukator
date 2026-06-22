@@ -82,7 +82,7 @@
 ❯ cat ~/.contacts
 ```
 
-[`linkedin/in/max-bukator`](https://www.linkedin.com/in/max-bukator/) · [`x.com/@mbukat0r`](https://x.com/mbukat0r) · [`npmjs.com/~mxbktr](https://www.npmjs.com/~mxbktr)
+[`linkedin/in/max-bukator`](https://www.linkedin.com/in/max-bukator/) · [`x.com/@mbukat0r`](https://x.com/mbukat0r) · [`npmjs.com/~mxbktr`](https://www.npmjs.com/~mxbktr)
 
 ```console
 ❯ fortune

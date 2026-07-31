@@ -50,14 +50,14 @@
 ```
 ~/projects
 │
-├──  merlin-commit v1.0.0  ● live  A faster CLI for conventional commits — no AI, just heuristics.
+├──  merlin-commit v1.0.1  ● live  A faster CLI for conventional commits — no AI, just heuristics.
 │      $ npm i -g merlin-commit
 │
 ├──  piggybank     v0.x    ○ soon  Privacy-first budget tracker — local-only, your money your machine.
 │      $ npm i -g piggybank
 │
-└──  bard-ui       v0.x    ○ soon  UI components you own — plain CSS, CSS Modules, or Tailwind.
-       $ npx bard-ui
+└──  kuhaku       v0.x    ○ soon  motion-first design system where every interaction is crafted and every still surface is dignified. Built on Base UI, distributed like shadcn, opinionated like Apple.
+       $ npx kuhaku init 
 
 3 projects · 1 live on npm
 ```

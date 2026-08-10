@@ -19,7 +19,7 @@
                                Stack     ::  TypeScript · Next.js · React
                                Styling   ::  Tailwind v4 · Framer Motion
                                Editor    ::  VS Code
-                               Building  ::  merlin-commit · piggybank · bard-ui
+                               Building  ::  merlin-commit · piggybank · kuhaku
                                Mascot    ::  Towbot the Keeper
 ```
 
